@@ -4,7 +4,7 @@
 
 I've spent the last 6-7 years in IT support, working directly with the infrastructure,
 endpoints, and identity systems that SOC teams monitor and defend every day. I'm now
-applying that hands-on foundation to security operations — building practical, documented
+applying that hands-on foundation to security operations building practical, documented
 labs in SIEM monitoring, alert triage, log investigation, and incident response.
 
 **Currently building hands-on experience in:**
